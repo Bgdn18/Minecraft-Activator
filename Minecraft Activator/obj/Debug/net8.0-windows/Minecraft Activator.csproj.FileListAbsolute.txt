@@ -1,0 +1,16 @@
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft Activator.csproj.GenerateResource.cache
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft Activator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft Activator.AssemblyInfoInputs.cache
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft Activator.AssemblyInfo.cs
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft Activator.csproj.CoreCompileInputs.cache
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\bin\Debug\net8.0-windows\Minecraft Activator.exe
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\bin\Debug\net8.0-windows\Minecraft Activator.deps.json
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\bin\Debug\net8.0-windows\Minecraft Activator.runtimeconfig.json
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\bin\Debug\net8.0-windows\Minecraft Activator.dll
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\bin\Debug\net8.0-windows\Minecraft Activator.pdb
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft_Activator.Form1.resources
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft Activator.dll
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\refint\Minecraft Activator.dll
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft Activator.pdb
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\Minecraft Activator.genruntimeconfig.cache
+C:\Users\krati\source\repos\Minecraft Activator\Minecraft Activator\obj\Debug\net8.0-windows\ref\Minecraft Activator.dll
